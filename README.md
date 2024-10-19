@@ -23,17 +23,10 @@ Welcome to the Nail Studio website! This platform showcases wide range of manicu
 
 ## Installation
 
-1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/nail-studio-florida.git
+   git clone https://github.com/InnaKlimenteva/Nail-studio.git
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd nail-studio-florida
-   ```
-
-3. Open `index.html` in your preferred web browser.
 
 ## Usage
 
