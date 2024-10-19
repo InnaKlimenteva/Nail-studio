@@ -1,0 +1,47 @@
+body {
+ background-color: #f6f6f6;
+}
+
+.bgBrand {
+ background-color: white;
+ color: maroon;
+}
+
+.copyRight {
+    font-size: 8px;
+}
+
+footer {
+    height: 100px;
+}
+
+.fontBrand {
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+.imgMobil {
+    width: 300px;
+    height: 200px;
+}
+
+.no-border {
+    border: none;
+}
+
+.nav-link:hover {
+    text-shadow: 0px 0px 20px rgb(158, 14, 14);
+}
+
+.btnOne:hover {
+    background-color:  rgb(158, 14, 14);
+    color: white;
+    border: none;
+    box-shadow: 0px 0px 15px maroon;
+}
+
+.logo:hover {
+    border-radius: 50%;
+    background: pink; 
+
+}
+
